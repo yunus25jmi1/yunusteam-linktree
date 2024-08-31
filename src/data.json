@@ -1,7 +1,7 @@
 {
   "header": {
     "image": {
-      "url": "src/assest/profile.jpg",
+      "url": "~/src/assest/profile.jpg",
       "alt": "Md Yunus"
     },
     "fullname": "Md Yunus",
@@ -16,7 +16,7 @@
     },
     {
       "title": "Resume",
-      "url": "src/assest/resume.pdf",
+      "url": "~/src/assest/resume.pdf",
       "openInNewTab": true
     },
     {
